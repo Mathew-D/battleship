@@ -1,8 +1,8 @@
 package dusome.battleship;
 /*
 Put header here
-
-
+MAthew Dusome
+2222
  */
 
 import java.net.URL;
